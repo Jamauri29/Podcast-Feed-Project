@@ -8,8 +8,8 @@
 
 ---
 ## Episode Library
-- [On Language & Healing: Vibrasons Só Positivu/Positive Vibez Only (Interview w/Noemy Amado)](https://go.raybo.org/tfit](https://open.spotify.com/episode/3ZuEO53U2uHzLusnOyfr2D?si=-26nq-phS_-h7nOtGrUZsQ)) 
-- [Language and Power (with Bonus Episode Content)](https://go.raybo.org/tfit-episodes](https://open.spotify.com/episode/7I0HlatseHC1hrDKIp7PUw?si=vrPlaLg6TKeiIMuqfQewCw))
-- [A Word w/the Ethknowlinguist: An Episodic Journey](https://go.raybo.org/tfit-youtube](https://open.spotify.com/episode/5zktB3menRvNYc0BsxyGds?si=x-TivS4mS5-xk0PFWv_bNw))
-- [What (the) [Fill-in-the-Blank] is an Ethknowlinguist?](https://go.raybo.org/tfit-feed-audio](https://open.spotify.com/episode/70PjTKet5CDkmYG24U6Cw5?si=8dUZ1HdoQLa71FFah0C6Jg))
-- [See All Episodes](https://go.raybo.org/tfit-newsletter](https://open.spotify.com/show/5uIDKWl3sqem13ygIjspn3?si=a8c913128e354a09))
+- [On Language & Healing: Vibrasons Só Positivu/Positive Vibez Only (Interview w/Noemy Amado)](https://open.spotify.com/episode/3ZuEO53U2uHzLusnOyfr2D?si=-26nq-phS_-h7nOtGrUZsQ) 
+- [Language and Power (with Bonus Episode Content)](https://open.spotify.com/episode/7I0HlatseHC1hrDKIp7PUw?si=vrPlaLg6TKeiIMuqfQewCw)
+- [A Word w/the Ethknowlinguist: An Episodic Journey](https://open.spotify.com/episode/5zktB3menRvNYc0BsxyGds?si=x-TivS4mS5-xk0PFWv_bNw)
+- [What (the) [Fill-in-the-Blank] is an Ethknowlinguist?](https://open.spotify.com/episode/70PjTKet5CDkmYG24U6Cw5?si=8dUZ1HdoQLa71FFah0C6Jg)
+- [See All Episodes](https://open.spotify.com/show/5uIDKWl3sqem13ygIjspn3?si=a8c913128e354a09)
