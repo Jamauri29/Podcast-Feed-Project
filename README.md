@@ -1,19 +1,15 @@
-# The Future in Tech
+# A WORD W/THE ETHKNOWLINGUIST -  A Podcast Hosted by Amauri J. 
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+<img src="https://i.scdn.co/image/ab67656300005f1f26852fb932eaada5dd3564c9" width="250"> 
 
-The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
-
-You can [watch it on LinkedIn](https://go.raybo.org/tfit-episodes) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.
-
-We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging Face by talking to some of the leaders delivering the tools, strategies and technologies that make working in technology exciting. We'll discuss how they broke into technology, business strategies, ethical concerns and technical skills.
-
-You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
+<b>About</b>
+<div>
+    I invite you to embark upon an episodic journey to explore ethnolinguistic perspectives with me. Along the way, we discuss ideologies on culture and language. We analyze prevailing narratives and touch on resources necessary for furthering knowledge production. You’ll remain current on issues, challenges, and triumphs that diverse communities experience. We clarify globalization’s effect on cultural and linguistic diversity, development, disruption, and distribution. Here, we’ll learn all about and from fellow humans through cultural and linguistic thought-provoking exchange, and much more….</div>
 
 ---
-## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+## Episode Library
+- [On Language & Healing: Vibrasons Só Positivu/Positive Vibez Only (Interview w/Noemy Amado)](https://go.raybo.org/tfit](https://open.spotify.com/episode/3ZuEO53U2uHzLusnOyfr2D?si=-26nq-phS_-h7nOtGrUZsQ)) 
+- [Language and Power (with Bonus Episode Content)](https://go.raybo.org/tfit-episodes](https://open.spotify.com/episode/7I0HlatseHC1hrDKIp7PUw?si=vrPlaLg6TKeiIMuqfQewCw))
+- [A Word w/the Ethknowlinguist: An Episodic Journey](https://go.raybo.org/tfit-youtube](https://open.spotify.com/episode/5zktB3menRvNYc0BsxyGds?si=x-TivS4mS5-xk0PFWv_bNw))
+- [What (the) [Fill-in-the-Blank] is an Ethknowlinguist?](https://go.raybo.org/tfit-feed-audio](https://open.spotify.com/episode/70PjTKet5CDkmYG24U6Cw5?si=8dUZ1HdoQLa71FFah0C6Jg))
+- [See All Episodes](https://go.raybo.org/tfit-newsletter](https://open.spotify.com/show/5uIDKWl3sqem13ygIjspn3?si=a8c913128e354a09))
