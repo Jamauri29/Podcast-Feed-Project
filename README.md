@@ -8,7 +8,7 @@
 
 ---
 ## Episode Library
-- [On Language & Healing: Vibrasons Só Positivu/Positive Vibez Only (Interview w/Noemy Amado)](https://open.spotify.com/episode/3ZuEO53U2uHzLusnOyfr2D?si=-26nq-phS_-h7nOtGrUZsQ) 
+- [On Language & Healing: Vibrasons Só Positivu/Positive Vibez Only (A Conversation w/Noemy Amado)](https://open.spotify.com/episode/3ZuEO53U2uHzLusnOyfr2D?si=-26nq-phS_-h7nOtGrUZsQ) 
 - [Language and Power (with Bonus Episode Content)](https://open.spotify.com/episode/7I0HlatseHC1hrDKIp7PUw?si=vrPlaLg6TKeiIMuqfQewCw)
 - [A Word w/the Ethknowlinguist: An Episodic Journey](https://open.spotify.com/episode/5zktB3menRvNYc0BsxyGds?si=x-TivS4mS5-xk0PFWv_bNw)
 - [What (the) [Fill-in-the-Blank] is an Ethknowlinguist?](https://open.spotify.com/episode/70PjTKet5CDkmYG24U6Cw5?si=8dUZ1HdoQLa71FFah0C6Jg)
